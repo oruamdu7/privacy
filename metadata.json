@@ -1,0 +1,6 @@
+{
+  "name": "Luana Paiva - Privacy",
+  "description": "Clone exato da página de perfil de Luana Paiva na plataforma Privacy, com player de áudio interativo, opções de assinatura e posts exclusivos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
